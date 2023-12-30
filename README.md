@@ -11,5 +11,5 @@ Used arrow functions
 ## Part Three
 I installed npm, and node. Created vite@latest for react.
 Incorporated useState in my work. I applied react Conditional rendering, Hooks.
-I applied Javascript ES6 Object and Array Destructuring.
+I applied Javascript ES6 Object, Array Destructuring and Spread Operator.
 Incorporated Event Handling using React, created react Forms
